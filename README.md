@@ -1,15 +1,15 @@
-- *h* move cursor to the left
-- *j* move down
-- *k* move up
-- *l* move right
-- *i* go to Insert mode
-- *<ESC> <C-C> <C-[>* go to Normal mode
+- _h_** move cursor to the left
+- _j_** move down
+- _k_** move up
+- _l_** move right
+- _i_** go to Insert mode
+- _<ESC> <C-C> <C-[>_** go to Normal mode
 
-- *w* move to the beginning of next word
-- *b* move to the beginning of the previous word
-- *e* move to the end of next word
-- *ge* move to the end of the previous word
-- *W* move to the beginning of next WORD
-- *B* move to the beginning of the previous WORD
-- *E* move to the end of the next WORD
-- *gE* move to the end of the previous WORD
+- _w_** move to the beginning of next word
+- _b_** move to the beginning of the previous word
+- _e_** move to the end of next word
+- _ge_** move to the end of the previous word
+- _W_** move to the beginning of next WORD
+- _B_** move to the beginning of the previous WORD
+- _E_** move to the end of the next WORD
+- _gE_** move to the end of the previous WORD
